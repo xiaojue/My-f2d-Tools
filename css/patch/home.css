@@ -1,0 +1,27 @@
+@charset "utf-8";
+.P_home .F_cols_main,.P_home_dynamic .F_cols_main,.P_home_notify .F_cols_main{width:715px;padding:25px 15px 0 0;min-height:600px;}
+.P_home .F_cols_second,.P_home_dynamic .F_cols_second,.P_home_notify .F_cols_second{width:220px;padding:25px 0 0 0;}
+.P_home .m_hmfocus,.P_home_dynamic .m_hmfocus,.P_home_notify .m_hmfocus{margin-bottom:20px;}
+.P_home .M_btn_a,.P_home_dynamic .M_btn_a,.P_home_notify .M_btn_a{margin-top:15px;}
+.P_home .m_tag_a,.P_home_dynamic .m_tag_a,.P_home_notify .m_tag_a{margin:17px 0 0 0;overflow:hidden;zoom:1;}
+.P_home .m_hm_widget,.P_home_dynamic .m_hm_widget,.P_home_notify .m_hm_widget{margin-top:28px;}
+.P_home .m_hm_widget .t,.P_home_dynamic .m_hm_widget .t,.P_home_notify .m_hm_widget .t{padding-bottom:8px;text-align:right;height:18px;}
+.P_home .m_hm_widget .h,.P_home_dynamic .m_hm_widget .h,.P_home_notify .m_hm_widget .h{float:left;cursor:default;}
+.P_home .official,.P_home_dynamic .official,.P_home_notify .official{margin-top:18px;}
+.P_home .recommend,.P_home_dynamic .recommend,.P_home_notify .recommend{margin-top:25px;}
+.P_home .m_pin_box,.P_home_dynamic .m_pin_box,.P_home_notify .m_pin_box{margin:0 13px 14px 0;}
+.P_home .F_cols_second .m_follow,.P_home_notify .F_cols_second .m_follow{margin-bottom:16px;}
+.P_home .official .t,.P_home_dynamic .official .t,.P_home_notify .official .t{padding-bottom:5px;}
+.P_home .interest .t,.P_home_dynamic .interest .t,.P_home_notify .interest .t{padding-bottom:5px;}
+
+/*相册首页*/
+.P_home .m_waterfall{min-height:200px;position:relative;width:730px;overflow:hidden;}
+.P_home .m_count .user_name,.P_home_dynamic .m_count .user_name,.P_home_notify .m_count .user_name{width:137px;}
+.P_home .m_menutab,.P_home_dynamic .m_menutab,.P_home_notify .m_menutab{padding-bottom:18px;}
+/*首页最新照片动态_好友动态_用户通知*/
+.P_home_dynamic .m_user_dynamic,.P_home_notify .m_user_dynamic,.P_home .m_user_dynamic{overflow:hidden;zoom:1;}
+.P_home .m_user_dynamic .dynamic_tips,.P_home_dynamic .m_user_dynamic .dynamic_tips,.P_home_notify .m_user_dynamic .dynamic_tips{width:675px;_width:672px;}
+.P_home .m_user_dynamic .xlike,.P_home_dynamic .m_user_dynamic .xlike,.P_home_notify .m_user_dynamic .xlike{width:492px;}
+.P_home_dynamic .m_user_dynamic .more,.P_home_notify .m_user_dynamic .more{margin-left:81px;}
+.P_home_dynamic .m_pages,.P_home_notify .m_pages{margin:10px 0 40px 0;}
+.P_home .dynamicList .comment, .P_home_dynamic .dynamicList .comment, .P_home_notify .dynamicList .comment{width:506px;}

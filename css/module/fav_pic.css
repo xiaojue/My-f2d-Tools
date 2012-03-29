@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* 他收藏的照片 */
+.m_fav_pic img, .m_fav_album img{vertical-align:bottom;}
+.m_fav_pic .photo img{background:url(../../images/common/loading.gif) no-repeat center center;}
+.m_fav_pic .photo{width:200px;height:200px;text-align:center;overflow:hidden;}
+.m_fav_pic .title, .m_fav_album .title{margin-top:6px;}
+.m_fav_pic .status, .m_fav_pic .edit, .m_fav_album .status, .m_fav_album  .edit{margin-top:4px;}
+.m_fav_pic .M_icon22, .m_fav_album .status .M_ico{float:right;margin-top:3px;}
+.m_fav_pic .edit, .m_fav_album .edit{visibility:hidden;_visibility:visible;}
+.m_fav_pic:hover .M_icon22,.m_fav_pic:hover .edit, .m_fav_album:hover .M_icon22, .m_fav_album:hover .edit{visibility:visible;}
+
+/* 他收藏的相册 */
+.m_fav_album{width:155px;}
+.m_fav_album .M_vline{margin:0 5px;}

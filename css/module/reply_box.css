@@ -1,0 +1,9 @@
+@charset "utf-8";
+.m_reply .arr_top{font-family:"SimSun";color:#f3f3f3;line-height:1;height:5px;overflow:hidden;display:block;padding:0 7px;}
+.m_reply .reply_cmnt textarea{height:20px;line-height:18px;resize:vertical;max-height:41px;}
+.m_reply .refer{text-align:right;padding-top:10px;}
+.m_reply .transmit{float:left;}
+.m_reply .transmit .t{line-height:1.125;display:inline-block;vertical-align:middle;}
+.m_reply .transmit .M_checkbox{margin:0 4px 0 0;}
+.m_reply .reply_cmnt{background:#F3F3F3;padding:15px;border-radius:2px;}
+.m_reply .M_icon30{margin:0px 10px 0 0;}

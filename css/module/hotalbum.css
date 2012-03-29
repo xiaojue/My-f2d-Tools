@@ -1,0 +1,5 @@
+@charset "utf-8";
+.m_hotAlbum{width:203px;}
+.m_hotAlbum img{vertical-align:bottom;}
+.m_hotAlbum .photo{float:left;margin:0px 1px 0 0;_margin-right:-2px;}
+.m_hotAlbum .chart{margin:0 0 1px 0;}

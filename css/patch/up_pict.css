@@ -1,0 +1,13 @@
+@charset "utf-8";
+.P_uppict .m_path_tit{margin: 24px 0 20px;}
+.P_uppict .m_path_tit .h{font-size:14px;}
+.P_uppict .flash_up{margin:20px 0 130px 0;height:526px;text-align:center;}
+.P_uppict .flash_up .tip{line-height:150px;}
+
+/*照片上传编辑区---*/
+.P_uppict_edit .plst{width:1076px;margin:30px 0 0 0;}
+.P_uppict_edit .plst li{margin-right:116px;padding-bottom:28px;display:inline-block;*display:inline;zoom:1;vertical-align:top;}
+.P_uppict_edit .m_path_tit{margin:22px 0 14px;}
+.P_uppict_edit .m_path_tit .h{font-size:14px;}
+.P_uppict_edit .save{text-align:center;padding-bottom:40px;}
+.P_uppict_edit .save .M_btn_a{width:220px;}

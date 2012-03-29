@@ -1,0 +1,15 @@
+@charset "utf-8";
+.m_error{width:484px;margin:0 auto;}
+.m_error .txt{font-family:'\5fae\8f6f\96c5\9ed1','\9ED1\4F53';font-size:16px;}
+.m_error .c{padding:28px 0 0 17px;text-align:center;overflow:hidden;}
+.m_error .btn{background:url(../../images/module/btnbg.png) no-repeat 0 0;width:142px;height:42px;line-height:40px;font-size:14px;font-family:'\5fae\8f6f\96c5\9ed1','\9ED1\4F53';float:left;margin-right:12px;}
+.m_error .btn:hover{text-decoration:none;background-position:0 -54px;}
+.m_error .btn:active{background-position:0 -108px;}
+
+.m_404 .content{height:126px;background:url(../../images/module/404.png) no-repeat center 0;}
+.m_404 .txt{padding:105px 0 0 156px;}
+.m_404 .c{margin-top:62px;}
+
+.m_error_b .ico{background:url(../../images/module/forbid.png) no-repeat 0 0;height:80px;width:80px;margin:0 auto;}
+.m_error_b .txt{text-align:center;margin-top:20px;}
+.m_error_b .c{margin-top:60px;}

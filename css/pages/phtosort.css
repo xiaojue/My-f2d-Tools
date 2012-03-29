@@ -1,0 +1,12 @@
+@charset "utf-8";
+/*照片列表拖拽*/
+@import url("../module/sortlist.css");
+/*照片浏览操作区*/
+@import url("../module/browse_menu.css");
+/*区域标题*/
+@import url("../module/user_path.css");
+
+/*------------弹层模块-----------*/
+
+/*补丁文件*/
+@import url("../patch/phtosort.css");

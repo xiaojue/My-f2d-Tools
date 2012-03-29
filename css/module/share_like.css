@@ -1,0 +1,7 @@
+@charset "utf-8";
+.m_share_like .M_dotted_y{margin:0 2px 0 4px;display:inline-block;width:2px;height:16px;vertical-align:-4px;*vertical-align:3px;_vertical-align:5px;}
+.m_share_like .M_transmit_bg, .m_share_like .M_like_bg{width:64px;height:18px;text-align:center;padding:5px 0;}
+.m_share_like .M_transmit_bg{*padding:4px 0 6px 0;_padding:6px 0 4px;}
+.m_share_like .M_like_bg{_padding:7px 0 3px;}
+.m_share_like .M_transmit_bg:hover, .m_share_like .M_like_bg:hover{background: url(../../images/common/btn.png) no-repeat 0 -477px;_background-image:url(../../images/common/btn.gif);text-decoration:none;}
+.m_share_like .M_ico{margin-right:5px;}

@@ -1,0 +1,9 @@
+@charset "utf-8";
+/*相册切换下拉菜单*/
+.m_smltSelect{position:relative;}
+.m_smltSelect .select{border:1px solid #E1E1E1;padding:6px 3px 6px 5px;height:17px;text-align:right;cursor:pointer;background:#fff;}
+.m_smltSelect .name{float:left;cursor:pointer;}
+.m_smltSelect .chose_btn{width:17px;height:17px;background-position:0 -990px;vertical-align:top;}
+.m_smltSelect .items{border:1px solid #E1E1E1;padding:2px 2px;position:absolute;top:32px;left:0;background:#fff; overflow-y:auto;} 
+.m_smltSelect .items a{display:block;padding:2px 3px;}
+.m_smltSelect .items a:hover{background:#EEE;text-decoration:none;}

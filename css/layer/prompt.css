@@ -1,0 +1,14 @@
+@charset "utf-8";
+.L_prompt{padding:28px 50px 30px 50px;width:280px;}
+.L_prompt .prompt,.L_prompt .blacklist{text-align:center;}
+.L_prompt .prompt .cont,.L_prompt .mk_ico,.L_min_prompt .cont,.L_min_prompt .mk_ico{vertical-align:middle;}
+.L_prompt .cont,.L_min_prompt .cont{padding-left:10px;}
+.L_prompt em.cont{display:inline-block;}
+.L_prompt .submit_centr{margin-top:20px;}
+.L_prompt .blacklist{padding:6px 0 0 0;}
+.L_prompt .blacklist .M_checkbox{vertical-align:-3px;margin-right:4px;}
+/*mini提示*/
+.L_min_prompt{width:180px;padding:20px 15px;}
+.L_min_prompt .submit_centr{margin:20px 0 10px 0;}
+.L_min_prompt .prompt{text-align:center;}
+

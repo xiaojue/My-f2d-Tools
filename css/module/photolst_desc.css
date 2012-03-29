@@ -1,0 +1,4 @@
+@charset "utf-8";
+.m_photolst_desc .favo_date{text-align:right;padding:5px 0 0 0;}
+.m_photolst_desc .favo_date .favo{float:left;}
+.m_photolst_desc .desc{word-break:break-all;word-wrap:break-word;}

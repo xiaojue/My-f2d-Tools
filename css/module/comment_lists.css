@@ -1,0 +1,29 @@
+@charset "utf-8";
+.m_commentWrap .cmnt_count{padding-bottom:4px;}
+
+.m_commentWrap .cmnt_area .submit{text-align:right;padding-top:10px;}
+.m_commentWrap .cmnt_area .forward{float:left;}
+.m_commentWrap .forward .meantime,.m_commentBox .forward .t{vertical-align:middle;}
+.m_commentWrap .forward .t{line-height:1.125;display:inline-block;}
+.m_commentWrap .forward .M_icon30{margin-right:10px;}
+.m_commentWrap .forward .M_checkbox{margin:0 4px 0 0;}
+
+.m_commentBox{padding-bottom:20px;}
+.m_commentBox .cmnt_area textarea{width:680px;height:66px;}
+
+.m_commentList .M_txtarea{height:20px;width:590px;line-height:18px;}
+.m_commentList .reply_items{background:url(../../images/common/dotted.gif) repeat-x 0 -1px;padding:15px 0;overflow:hidden;}
+.m_commentList .reply_items .del_lk{visibility:hidden;_visibility:visible;}
+.m_commentList .reply_items:hover .del_lk{visibility:visible;}
+.m_commentList .m_thumb_c{float:left;}
+.m_commentList .reply_cont{width:650px;margin:-3px 0 0 37px;_margin:-3px 0 0 34px;}
+.m_commentList .time_reply{text-align:right;}
+.m_commentList .time_reply .time{float:left;}
+.m_commentList .reply{background:#F3F3F3;padding:25px;}
+.m_commentList .M_icon30{margin:0px 10px 0 0;}
+.m_commentList .contBox{word-break:break-all;word-wrap:break-word;}
+.m_commentList .contBox .cont img{vertical-align:-5px;}
+.m_commentList .contBox a{vertical-align:baseline;zoom:1;}
+.m_commentList .cmnt_area{margin-top:8px;}
+.m_commentList .cmnt_area .arr_top{font-family:"SimSun";color:#f3f3f3;line-height:1;height:5px;overflow:hidden;display:block;width:645px;text-align:right;padding-right:5px;}
+.m_commentList .M_vline{margin:0 5px;}

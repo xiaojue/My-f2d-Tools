@@ -1,0 +1,7 @@
+@charset "utf-8";
+.L_sendweibo{padding:16px 50px 30px 50px;}
+.L_sendweibo .letrCount{margin-top:-24px;}
+.L_sendweibo .txtarea{clear:both;}
+.L_sendweibo .txtarea .M_txtarea{cursor:text;}
+.L_sendweibo .prompt{margin-bottom:-10px;}
+.L_sendweibo .submit_centr{padding-top:18px;clear:both;}

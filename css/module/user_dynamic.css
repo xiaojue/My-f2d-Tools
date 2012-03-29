@@ -1,0 +1,27 @@
+@charset "utf-8";
+.m_user_dynamic .dynamicList{margin-top:-21px;overflow:hidden;}
+.m_user_dynamic li{background:url(../../images/common/dotted.gif) repeat-x 0 -1px;padding:0 0 20px 0;overflow:hidden;zoom:1;}
+.m_user_dynamic dl{padding:18px 0 0 0;}
+.m_user_dynamic .m_thumb_c{float:left;margin-top:3px;}
+.m_user_dynamic .dynamic_tips{margin-left:37px;text-align:right;overflow:hidden;zoom:1;}
+.m_user_dynamic .stance{padding:0 5px;}
+.m_user_dynamic .xlike{float:left;text-align:left;word-break:break-all;word-wrap:break-word;}
+.m_user_dynamic .xlike .ta{padding:0 5px;}
+.m_user_dynamic .xlike .he{padding:0 5px 0 0;}
+.m_user_dynamic .xlike .fromAlbum{padding-left:18px;}
+.m_user_dynamic .date .formLink{padding-left:10px;}
+.m_user_dynamic .dynamic_cont{margin-left:37px;margin-top:15px;}
+.m_user_dynamic .cont,.m_user_dynamic .lookat{float:left;}
+.m_user_dynamic .cont .m_cover,.m_user_dynamic .cont .phto{float:left;margin-right:20px;}
+.m_user_dynamic .cont .phto img{background:url(../../images/common/loading.gif) no-repeat center center;}
+.m_user_dynamic .cont .m_cover{margin-right:15px;display:inline;}
+.m_user_dynamic .comment{word-break:break-all;word-wrap:break-word;padding-bottom:4px;}
+.m_user_dynamic .comment em{padding-right:15px;}
+.m_user_dynamic .lookat{margin-left:-5px;}
+.m_user_dynamic .lookat .more{display:inline-block;margin:103px 0 0 55px;}
+.m_user_dynamic .lookat .reply_tips{visibility:hidden;_visibility:visible;}
+.m_user_dynamic .lookat .reply_tips .M_vline {margin:0 6px;}
+.m_user_dynamic .lookat:hover .reply_tips{visibility:visible;}
+.m_user_dynamic .show_reply .m_reply{display:block;}
+.m_user_dynamic .m_reply{display:none;width:506px;_overflow:hidden;}
+.m_user_dynamic .m_reply textarea{width:470px;}

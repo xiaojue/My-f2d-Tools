@@ -1,0 +1,5 @@
+@charset "utf-8";
+.L_helikes{padding:18px 50px 0 50px;width:398px;height:398px;overflow-y:auto;}
+.L_helikes .lkLists li{padding-bottom:15px;margin-bottom:15px;background:url(../../images/common/dotted.gif) repeat-x 0 bottom;}
+.L_helikes .info{width:234px;}
+.L_helikes .m_pages_minibtn{padding-bottom:15px;}

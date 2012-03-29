@@ -1,0 +1,26 @@
+@charset "utf-8";
+.P_photolst_c .m_user_path,
+.P_photolst_b .m_user_path,
+.P_photolst_a .m_user_path{margin-top:20px;}
+.P_photolst_c .m_share_like,
+.P_photolst_b .m_share_like,
+.P_photolst_a .m_share_like{margin:-22px 0 0 0;border-bottom:1px solid #d0d0d0;padding-bottom:8px;text-align:right;}
+.P_photolst_c .m_browse_menu,
+.P_photolst_b .m_browse_menu,
+.P_photolst_a .m_browse_menu{padding:20px 0 18px;clear:both;}
+.P_photolst_c .F_cols_main{float:right;padding-right:0;min-height:200px;}
+.P_photolst_c .commentBox,
+.P_photolst_b .commentBox{overflow:hidden;zoom:1;}
+.P_photolst_c .m_thumb_lst_a{width:682px;margin-top:60px;}
+.P_photolst_b .m_thumb_lst_a{width:682px;margin-top:30px;}
+.P_photolst_a .m_thumb_lst_a{width:682px;margin-top:30px;}
+.P_photolst_c .m_commentWrap,
+.P_photolst_b .m_commentWrap,
+.P_photolst_a .m_commentWrap{width:690px;margin-top:6px;margin-bottom:43px;}
+.P_photolst_b .m_piclist{margin-top:18px;}
+.P_photolst_a .m_pages,.P_photolst_b .m_pages{padding:20px 10px 0 0;}
+.P_photolst_c .m_pages{padding:23px 10px 0 0;}
+.P_photolst_a .m_photo_list_a .photoList{width:1000px;}
+.P_photolst_a .m_photo_list_a li{margin:0 50px 14px 0;}
+.P_photolst_a .m_photolst_desc{width:682px;margin:30px 0 0 0;}
+.P_photolst_a .M_icon22, .P_photolst_b .M_icon22,.P_photolst_c .M_icon22{display:none;}

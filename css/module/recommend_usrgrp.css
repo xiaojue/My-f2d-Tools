@@ -1,0 +1,6 @@
+@charset "utf-8";
+.m_recommend_ug{text-align:center;width:90px;}
+.m_recommend_ug .m_thumb{vertical-align:bottom;}
+.m_recommend_ug .name{padding:7px 0 5px 0;}
+.m_rcmnd_userList .m_rcmnd_user{float:left;margin-right:20px;display:inline;}
+.m_rcmnd_groupList .m_rcmnd_group{float:left;margin-left:20px;display:inline;}

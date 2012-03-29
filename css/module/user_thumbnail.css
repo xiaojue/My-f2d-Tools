@@ -1,0 +1,15 @@
+@charset "utf-8";
+/* 头像缩略图 */
+.m_thumb a{border:1px solid #d8d8d8;background:#fff;display:inline-block;}
+.m_thumb_a a:hover,.m_thumb_b a:hover,.m_thumb_c a:hover{border:1px solid #5DB1F0;}
+.m_thumb img{vertical-align:bottom;}
+.m_thumb_a img,.m_thumb_c img{width:25px;height:25px;}
+.m_thumb_b img{width:50px;height:50px;}
+.m_thumb_a a{position:relative;}
+.m_thumb_a a .M_icon23{visibility:hidden;position:absolute;bottom:0;right:0;margin-right:0;}
+.m_thumb_a a:hover .M_icon23{visibility:visible;}
+.m_thumb_d a{padding:5px;}
+.m_thumb_d a:hover{background:#5DB1F0;border-color:#5DB1F0;}
+.m_thumb_d img{width:138px;height:138px;}
+.m_thumb_e img{width:82px;height:82px;}
+.m_thumb_e a{padding:3px;}

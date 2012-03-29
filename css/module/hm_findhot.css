@@ -1,0 +1,4 @@
+@charset "utf-8";
+.m_hm_findhot{width:240px;overflow:hidden;}
+.m_hm_findhot li{float:left;padding:0 12px 10px 0;}
+.m_hm_findhot img{vertical-align:bottom;background:url(../../images/common/loading.gif) no-repeat center center;}

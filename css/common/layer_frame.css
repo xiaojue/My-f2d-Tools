@@ -1,0 +1,54 @@
+@charset "utf-8";
+.L_layer{position:absolute;-moz-border-radius:4px;-webkit-border-radius:4px;border-radius:4px;z-index:9999;}
+.L_layer .bg{padding:4px;-moz-border-radius:4px;-webkit-border-radius:4px;border-radius:4px;background:url(../../images/common/layer_bg.png) repeat;}
+.L_layer .content{position:relative;background:#fff;border:1px solid #c6c6c6;-moz-border-radius:3px;-webkit-border-radius:3px;border-radius:3px;}
+.L_layer .title{background:#f0f0f0;height:30px;line-height:30px;padding:0 0 0 20px;color:#555;font-size:14px;vertical-align:middle}
+.L_layer .close{position:absolute;z-index:2;right:10px;top:1px;cursor:pointer;width:28px;height:28px;background:url(../../images/common/icon.png) no-repeat 0 -960px;}
+.L_layer .close:hover{background-position:-70px -960px;}
+.L_layer .detail{padding:0 10px 10px;}
+.L_layer .m_tab{background:#f0f0f0;padding:4px 4px 0 6px;}
+.L_layer .m_tab .tab_title{font-size:14px;margin:0 0 0 15px;}
+.L_layer .m_tab a{height:26px;line-height:26px;padding:0 11px;margin:0 -2px;position:relative;z-index:1;display:inline-block;}
+.L_layer .m_tab .current{color:#888;text-decoration:none;cursor:default;background:#fff;border:1px solid #e8e8e8;border-bottom:0;-moz-border-radius-topright:3px;-webkit-border-top-right-radius:3px 3px;-moz-border-radius-topleft:3px;-webkit-border-top-left-radius:3px 3px;}
+.L_layer .arrow,.L_layer .arrow_hui{position:absolute;overflow:hidden;display:block;background:url(../../images/common/layer_arrow.png) no-repeat;_background-image:url(../../images/common/layer_arrow.gif);}
+.L_layer .arrow_hui{background:url(../../images/common/layer_arrow_hui.png) no-repeat;}
+.L_layer .arrow_r,.L_layer .arrow_l{width:11px;height:16px;top:20px;right:-6px;background-position:-11px -24px;}
+.L_layer .arrow_l{right:auto;left:-6px;background-position:0 -24px;}
+.L_layer .arrow_t,.L_layer .arrow_b{width:16px;height:11px;top:-6px;left:30px;background-position:0 -1px;}
+.L_layer .arrow_b{top:auto;bottom:-6px;background-position:0 -11px;}
+
+.L_layer .m_ly_tip{border:1px solid #F9F2A7;background:#FEFFE5;position:absolute;}
+.L_layer .m_ly_tip .txt{padding:0 10px;display:block;height:22px;line-height:22px;color:#D4A639;white-space:nowrap;}
+/*模拟select*/
+.L_layer .m_smltSelect{position:relative;}
+.L_layer .m_smltSelect .select{border:1px solid #E1E1E1;padding:6px 3px 6px 5px;height:17px;text-align:right;cursor:pointer;}
+.L_layer .m_smltSelect .name{float:left;}
+.L_layer .m_smltSelect .chose_btn{width:17px;height:17px;background-position:0 -990px;vertical-align:top;}
+.L_layer .m_smltSelect .items{border:1px solid #E1E1E1;padding:2px 2px;position:absolute;top:32px;left:0;overflow-y:auto;} 
+.L_layer .m_smltSelect .items a{display:block;padding:2px 3px;}
+.L_layer .m_smltSelect .items a:hover{background:#EEE;text-decoration:none;}
+/*提醒标志*/
+.L_layer .mk_ico{background:url(../../images/layer/indicate.png) no-repeat 0 0;display:inline-block;width:25px;height:25px;}
+.L_layer .mk_suced{background-position:0 -28px;}
+.L_layer .mk_fail{background-position:0 -56px;}
+.L_layer .mk_quest{background-position:0 -84px;}
+/*按钮居中*/
+.L_layer .submit_centr{text-align:center;}
+.L_layer .submit_centr .M_btn_e{margin:0 5px;}
+/*转发*/
+.L_layer .m_forward .M_txtarea{width:387px;padding:5px 4px 3px 5px;margin-bottom:10px;height:60px;}
+.L_layer .m_forward .letrCount{text-align:right;padding:0 0 9px 0;}
+.L_layer .m_forward .letrCount span{font-weight:700;font-family:Constantia,Georgia;font-size:24px;line-height:24px;}
+.L_layer .m_forward .face{line-height:1.125;display:inline-block;}
+.L_layer .m_forward .face label{padding-right:5px;}
+.L_layer .m_forward .M_icon30{margin-right:10px;*margin-right:7px;}
+.L_layer .m_forward .M_checkbox{margin-right:4px;}
+.L_layer .m_forward .send_cmn{float:right;}
+.L_layer .m_forward .face{float:left;}
+/*输入*/
+.L_layer .m_Layform{margin-bottom:15px;vertical-align:middle;}
+.L_layer .m_Layform dt,.L_layer .m_Layform dd{float:left;line-height:26px;}
+.L_layer .m_Layform dt{padding:0 2px 0 0;text-align:right;}
+.L_layer .m_Layform .M_inpt{padding-left:5px;}
+.L_layer .m_Layform .M_txtarea{padding:5px 4px 3px 5px;width:282px;}
+.L_layer .m_Layform .tipBox{padding:0 0 0 10px;white-space:nowrap;}

@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* 相册封皮 */
+.m_cover .img_wrap .img_title{position:absolute;left:0;}
+.m_cover .img_wrap{background:url(../../images/common/cover_bg.png) no-repeat 0 0;padding:1px 0 0 1px;}
+.m_cover .img_wrap img{background:#FFF url(../../images/common/loading.gif) no-repeat center center;}
+/*m_cover_a*/
+.m_cover_a .img_wrap{width:94px;height:94px;background-position:-61px -497px;padding:0;}
+.m_cover_a .img_wrap img{width:90px;height:90px;}
+/*m_cover_b*/
+.m_cover_b .img_wrap{position:relative;width:205px;height:205px;}
+.m_cover_b .img_wrap .img_title{position:absolute;left:1px;bottom:4px;font-size:22px;padding-left:12px;background:url(../../images/common/alpha_40.png) repeat-x 0 0;_background:#505050;}
+.m_cover_b .img_wrap img{width:200px;height:200px;}
+.m_cover_b .img_wrap .img_title a{color:#fff;display:block;width:188px;height:50px;line-height:50px;text-decoration:none;font-family:\5FAE\8F6F\96C5\9ED1;}
+/*m_cover_c*/
+.m_cover_c .img_wrap{width:155px;height:155px;background-position:-25px -209px;}
+.m_cover_c .img_wrap img{width:150px;height:150px;}
+/*m_cover_d*/
+.m_cover_d .img_wrap{width:125px;height:125px;background-position:-42px -368px;}
+.m_cover_d .img_wrap img{width:120px;height:120px;}

@@ -1,0 +1,30 @@
+@charset "utf-8";
+.L_quanren{padding:20px 20px 25px 20px;width:260px;}
+.L_quanren .iptname .M_inpt{width:249px;}
+.L_quanren .frndlists .chkfrd{padding:5px 0;}
+.L_quanren .frndlists{padding-bottom:20px;background:url(../../images/common/dotted.gif) repeat-x 0 bottom;}
+.L_quanren .frndlists ul{max-height:190px;overflow-x:hidden;overflow-y:auto;_height:170px;}
+.L_quanren .frndlists li{padding-bottom:3px;*padding-bottom:1px;}
+.L_quanren .M_radio{margin-right:2px;}
+.L_quanren .confirm_send{padding:20px 0 0 0;}
+.L_quanren .confirm .M_btn_e{margin-right:10px;}
+.L_quanren .sendwb{padding:7px 0 0 0;}
+.L_quanren .sendwb .M_checkbox{margin-right:4px;vertical-align:-3px;}
+
+/*选择移动区*/
+.L_resize{position:absolute;}
+.L_resize .selection-wrap{position:absolute;overflow:hidden;z-index:1001;display:block;}
+.L_resize .select{position:absolute;font-size:0px;left:0px;top:0px;}
+.L_resize .border1{background:url(../../images/layer/border-anim-v.gif) repeat-y 100% 0%;}
+.L_resize .border2{background:url(../../images/layer/border-anim-h.gif) repeat-x 100% 0%;}
+.L_resize .border3{background:url(../../images/layer/border-anim-h.gif) repeat-x 0% 100%;}
+.L_resize .border4{background:url(../../images/layer/border-anim-v.gif) repeat-y 0% 0%;}
+.L_resize .txt-wrap{position:absolute;left:0px;top:0px;font-size:0px;opacity:1;margin:1px;width:100px;height:100px;}
+.L_resize .txt{width:64px;height:50px;line-height:25px;font-size:12px;display:block;padding:24px 17px;background:#000;color:#fff;opacity:0.8;filter:alpha(opacity=80);}
+.L_resize .outer-area{position:absolute;overflow:hidden;z-index:999;display:block;background-color:black;opacity:0.5;filter:alpha(opacity=50);}
+
+/*已圈人box*/
+.L_qr_person{border:1px solid #250203;position:absolute;}
+.L_qr_person .inner{border:2px solid #FFF;}
+.L_qr_person .personName{position:absolute;bottom:-37px;background:url(../../images/common/btn.png) no-repeat 0 -417px;}
+.L_qr_person .personName .name{height:29px;line-height:29px;margin-left:15px;padding-right:15px;display:inline-block;background:url(../../images/common/btn.png) no-repeat right -447px;}

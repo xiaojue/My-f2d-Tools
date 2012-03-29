@@ -1,0 +1,21 @@
+.m_pin_box{position:absolute;overflow:hidden;width:227px;background-color:#f6f6f6;border:1px solid #f3f3f3;border-top:none;-moz-border-radius:2px;-webkit-border-radius:2px;border-radius:2px;}
+.m_pin_box .photoArea{padding:11px 11px 0 11px;overflow:hidden;position:relative;}
+.m_pin_box .photoArea .photo{margin:0 auto;display:block;}
+.m_pin_box .describe{padding:6px 11px 0 11px;line-height:18px;word-break:break-all;word-wrap:break-word;}
+.m_pin_box .toolbar{padding:5px 11px 8px 11px;text-align:right;}
+.m_pin_box .toolbar .M_linke{margin:0 0 0 10px;}
+.m_pin_box .comment{overflow:hidden;zoom:1;padding:8px 11px 10px 11px;border-bottom:1px solid #DCDCDC;background:url(../../images/common/dotted.gif) repeat-x 0 -1px;}
+.m_pin_box .comment .m_thumb{float:left;margin:3px 10px 0 3px;_margin-right:6px;}
+.m_pin_box .comment .conn{overflow:hidden;zoom:1;}
+.m_pin_box .comment .xlike{word-break:break-all;word-wrap:break-word;}
+.m_pin_box .xlike a{margin-right:4px;}
+.m_pin_box .comment .conn .nbsp{padding-right:4px;}
+.m_pin_box .comment .conn i{padding-right:4px;margin:0 -1px;}
+.m_pin_box .comment .conn .time{display:inline-block;}
+.m_pin_box .like_mk{height:29px;width:29px;position:absolute;right:16px;top:16px;text-align:center;}
+.m_pin_box .like_mk{display:none;}
+.m_pin_box .like_mk a{display:block;width:29px;height:29px;background:url(../../images/common/icon.png) no-repeat -70px -1200px;_background-image:url(../../images/common/icon.gif);}
+.m_pin_box .like_mk a:hover{background:url(../../images/common/icon.png) no-repeat 0 -1200px;_background-image:url(../../images/common/icon.gif);}
+.m_pin_box .like_mk a:active{background:url(../../images/common/icon.png) no-repeat -35px -1200px;}
+.m_pin_box .like_mk .M_icon37,.m_pin_box .like_mk .M_icon37_on{margin:10px 0 0 0;}
+.m_pin_box .count{background:url(../../images/common/alpha_70.png) repeat-x 0 0;height:20px;line-height:20px;padding:0 10px;position:absolute;right:16px;color:#FFF;-moz-border-radius:3px;-webkit-border-radius:3px;-o-border-radius:3px;border-radius:3px;bottom:5px;_background-color:#555;}

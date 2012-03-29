@@ -1,0 +1,7 @@
+.m_btnlayer,.m_btnlayer_lk{border:1px solid #d0d0d0;padding:5px 10px;background:#fff;white-space:nowrap;_width:10px;position:absolute;left:0;top:23px;z-index:20;display:none;}
+.m_btnlayer li,.m_btnlayer_lk li{height:22px;line-height:20px;}
+.m_btnlayer .menulist .M_ico,.m_btnlayer_lk .menulist .M_ico{vertical-align:-3px;*vertical-align:-1px;}
+.m_btnlayer .menulist .M_icon24,.m_btnlayer_lk .menulist .M_icon24{vertical-align:-2px;*vertical-align:-0px;}
+.m_btnlayer .M_ico,.m_btnlayer_lk .M_ico{width:14px;}
+.m_btnlayer .M_dotted_x,.m_btnlayer_lk .M_dotted_x{margin:4px 0 0 0;padding-top:7px;}
+.m_btnlayer_lk{top:18px;}

@@ -1,0 +1,8 @@
+@charset "utf-8";
+.L_synchr_wb .close{color:#bbb;background:none;width:12px;height:12px;line-height:12px;text-align:center;text-decoration:none;top:8px;font-size:16px;}
+.L_synchr_wb{padding:20px 20px 30px 20px;width:180px;}
+.L_synchr_wb .prompt{padding:0 0 18px 0;}
+.L_synchr_wb .confirm{padding:0 0 6px 0;text-align:center;}
+.L_synchr_wb .confirm .M_btn_e{margin:0 5px;}
+.L_synchr_wb .M_checkbox{margin-right:4px;}
+.L_synchr_wb .tips{padding:4px 0 0 0;display:none;}

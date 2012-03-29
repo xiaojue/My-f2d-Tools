@@ -1,0 +1,67 @@
+@charset "utf-8";
+.L_slide .closearea,.L_alpha .closearea{position:absolute;right:0;top:5px;cursor:pointer;padding:10px 6px 10px 8px;}
+.L_slide .topMenu{position:absolute;top:0;width:100%;height:48px;}
+.L_slide .topMenu .alpha{width:100%;height:48px;filter:alpha(opacity=50);opacity:0.5;}
+.L_slide .topMenu .content{position:absolute;height:48px;top:0px;left:0px;width:100%;}
+.L_slide .topMenu .user{float:left;}
+.L_slide .topMenu .share{float:right;margin:14px 50px 0 0;_display:inline;}
+
+.L_slide .user{margin:5px 0 0 10px;}
+.L_slide .user .m_thumb_c{float:left;}
+.L_slide .user .name{display:inline-block;padding:5px 0 0 3px;}
+
+.L_slide .M_pages_a{padding-top:14px;position:absolute;left:50%;margin-left:-89px;}
+.L_slide .M_pages_a a,.L_slide .M_pages_a .count{color:#FFF;}
+.L_slide .M_pages_a .count em{margin:0 1px;}
+.L_slide .M_like_sm,.L_slide .M_comment_sm,.L_slide .M_transmit_sm{margin-left:15px;}
+.L_slide .share .M_ico{margin:0;}
+.L_slide .M_linke:hover{text-decoration:none;}
+.L_slide .pic{margin:0 auto;text-align:center;}
+
+.L_slide .console{height:90px;width:916px;margin-left:-458px;left:50%;position:absolute;bottom:0;}
+.L_slide .console .alpha{position:absolute;width:100%;height:90px;filter:alpha(opacity=50);opacity:0.5;}
+.L_slide .console .content{position:relative;}
+.L_slide .picLists{width:690px;overflow:hidden;zoom:1;margin:0 auto;}
+.L_slide .picLists ul{padding:12px 0;}
+.L_slide .picLists li{margin:0 12px 0 0;float:left;}
+.L_slide .picLists ul img{vertical-align:bottom;border:3px solid #888;border:3px solid rgba(255,255,255,.2);cursor:pointer;-webkit-border-radius:3px;-moz-border-radius:3px;-o-border-radius:3px;border-radius:3px;}
+.L_slide .picLists li.current img{cursor:default;border:3px solid #FFF;}
+
+.L_slide .play,.L_slide .pause,.L_slide .defl,.L_slide .defa,.L_alpha .replay{background:url(../../images/layer/ly_slide.png) no-repeat 0 0;display:inline-block;width:43px;height:43px;_background-image:url(../../images/layer/ly_slide.gif);cursor:pointer;vertical-align:middle;}
+.L_slide .pause{background-position:0 -44px;}
+.L_slide .defl{background-position:0 -88px;}
+.L_slide .defa{background-position:0 -132px;}
+.L_slide .console .prev,.L_slide .console .next,.L_slide .console .prev_f,.L_slide .console .next_f{background:url(../../images/layer/ly_slide.png) no-repeat 0 0;_background-image:url(../../images/layer/ly_slide.gif);display:inline-block;width:30px;height:60px;vertical-align:middle;}
+.L_slide .console .prev{background-position:0 -176px;margin:0 0 0 20px;cursor:pointer;}
+.L_slide .console .next{background-position:0 -237px;margin:0 20px 0 0;cursor:pointer;}
+.L_slide .console .prev_f{background-position:0 -342px;margin:0 0 0 20px;}
+.L_slide .console .next_f{background-position:0 -403px;margin:0 20px 0 0;}
+
+.L_slide .play_prev{float:left;margin:14px 0 0 0;}
+.L_slide .defl_next{float:right;margin:14px 0 0 0;}
+
+/*alpha公用区*/
+.L_alpha{position:absolute;}
+.L_alpha .alpha,.L_slide .alpha{filter:alpha(opacity=80);opacity:0.8;background:#000;position:absolute;top:0;left:0px;}
+.L_alpha .content{position:absolute;top:0;left:0;}
+.L_alpha .replay{background-position:0 -298px;vertical-align:-14px;}
+
+/*弹层A*/
+.L_alpha_a .alpha,.L_alpha_a .content{width:686px;padding-top:42px;}
+.L_alpha_a .m_yllw_clew{margin:0 auto;width:314px;}
+.L_alpha_a .t{margin:36px 0 8px;padding:0 48px;}
+.L_alpha_a .lst{padding:0 22px 0 48px;}
+.L_alpha_a .lst li{float:left;padding:0 28px 16px 0;}
+.L_alpha_a .name{padding-top:5px;white-space:nowrap;width:126px;overflow:hidden;}
+.L_alpha_a .more{position:absolute;right:48px;bottom:42px;}
+
+/*弹层B*/
+.L_alpha_b .alpha,.L_alpha_b .content{width:400px;}
+.L_alpha_b .user{margin:34px 70px 0;}
+.L_alpha_b .m_thumb_b{float:left;}
+.L_alpha_b .info{padding:6px 0 0 60px;}
+.L_alpha_b .desc{font-size:14px;font-weight:bold;margin-top:8px;}
+.L_alpha_b .rbd{margin:92px 0 112px;text-align:center;}
+.L_alpha_b .rbd em{font-size:24px;font-family:\5fae\8f6f\96c5\9ed1;color:#fff;cursor:pointer;margin-left:8px;}
+.L_alpha_b .b{text-align:center;}
+.L_alpha_b .M_transmit_bg{margin-right:50px;}

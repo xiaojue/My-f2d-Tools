@@ -1,0 +1,7 @@
+@charset "utf-8";
+
+/*报错页面*/
+@import url("../module/error.css");
+
+/*补丁文件*/
+@import url("../patch/error.css");

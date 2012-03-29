@@ -1,0 +1,15 @@
+@charset "utf-8";
+.m_user_setting .seting_t{border-bottom:1px solid #ECECEC;margin-bottom:5px;padding:0 0 17px 0;}
+.m_user_setting .seting_cont{overflow:hidden;}
+.m_user_setting .seting_cont .first_ch{background:none;margin-top:0;}
+
+.m_setItem_a,.m_setItem_b{overflow:hidden;zoom:1;padding:14px 0 0 0;}
+.m_setItem_a .t,.m_setItem_b .t,.m_setItem_a .cont,.m_setItem_b .cont{float:left;}
+.m_setItem_a .t,.m_setItem_b .t{text-align:right;}
+.m_setItem_a .cont,.m_setItem_b .cont{padding-left:55px;}
+.m_setItem_a .set,.m_setItem_b .set{padding-top:6px;}
+.m_setItem_a .set label,.m_setItem_b .set label{margin-right:13px;}
+.m_setItem_a .set .M_radio,.m_setItem_b .set .M_radio{margin-right:2px;}
+.m_setItem_a{background:url(../../images/common/dotted.gif) repeat-x 0 -1px;margin:15px 0 0 55px;}
+.m_setItem_a .t{width:50px;}
+.m_setItem_b .t{width:100px;}

@@ -1,5 +1,0 @@
-@charset "utf-8";
-.m_user_albumlist .albumlists{width:1000px;}
-.m_user_albumlist .albumlists li{float:left;width:155px;height:226px;}
-.m_user_albumlist .m_fav_album .title,.m_user_albumlist .m_fav_album .status{width:155px;white-space:nowrap;overflow:hidden;}
-.m_user_albumlist .m_fav_album .status{width:142px;}

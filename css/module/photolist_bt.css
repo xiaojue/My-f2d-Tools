@@ -1,8 +1,0 @@
-@charset "utf-8";
-.m_piclist{border:1px solid #eee;border-top:0 none;background:#f3f3f3;border-radius: 0 0 2px 2px;}
-.m_piclist ul{padding:15px 10px 0px 17px;}
-.m_piclist ul li{height:95px; margin-bottom:16px; overflow: hidden;}
-.m_piclist ul li .m_cover{float:left;}
-.m_piclist ul li p{padding-left:100px;word-break:break-all;word-wrap:break-word;}
-.m_piclist .m_listpage{margin-top: -3px;padding-bottom:15px;border-bottom:1px solid #cbcbcb;}
-.m_piclist .M_pages{width:50px; margin:0 auto;}

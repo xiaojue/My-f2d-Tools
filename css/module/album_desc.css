@@ -1,7 +1,0 @@
-@charset "utf-8";
-.m_album_desc{width:206px;}
-.m_album_desc .m_cover{margin-bottom:5px;}
-.m_album_desc .a_mt{margin-right:10px; display:inline;}
-.m_album_desc .desc,.m_album_desc .favo_date{padding:0 0 0 3px;word-break:break-all;word-wrap:break-word;}
-.m_album_desc .favo_date{text-align:right;margin:5px 0 0 0;}
-.m_album_desc .favo_date .favo{float:left;}

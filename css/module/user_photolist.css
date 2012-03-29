@@ -1,5 +1,0 @@
-@charset "utf-8";
-.m_user_photolist .user_photolist{width:1000px;}
-.m_user_photolist .user_photolist li{float:left;width:200px;height:270px;}
-.m_user_photolist .user_photolist .title,.m_user_photolist .user_photolist .status{width:200px;white-space:nowrap;overflow:hidden;}
-.m_user_photolist .user_photolist .status{width:width:186px;}

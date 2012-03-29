@@ -1,9 +1,0 @@
-@charset "utf-8";
-.P_mydynamic .m_user_album,.P_hisdynamic .m_user_album{margin:20px 0 0 0;}
-.P_mydynamic .m_subnav,.P_hisdynamic .m_subnav{margin:20px 0 0 0;}
-.P_mydynamic .m_user_dynamic,.P_hisdynamic .m_user_dynamic{margin:15px 0 0 0;overflow:hidden;zoom:1;}
-.P_mydynamic .m_user_dynamic .dynamic_tips,.P_hisdynamic .m_user_dynamic .dynamic_tips{width:650px;_width:647px;}
-.P_mydynamic .m_user_dynamic .xlike,.P_hisdynamic .m_user_dynamic .xlike{width:468px;}
-.P_mydynamic .m_pages,.P_hisdynamic .m_pages{padding:10px 10px 40px 0;}
-.P_mydynamic .m_yllw_clew,.P_hisdynamic .m_yllw_clew{margin:30px 0 0 0;}
-.P_mydynamic .dynamicList .comment,.P_hisdynamic .dynamicList .comment{width:510px;}

@@ -1,7 +1,0 @@
-@charset "utf-8";
-.F_wrap{width:950px;margin:0 auto;}
-.F_cols_main{width:690px;padding-right:30px;overflow:hidden;float:left;min-height:500px;}
-.F_cols_second{width:230px;overflow:hidden;float:left;min-height:160px;}
-/*单栏情况，F_rows使用时在两栏和一栏情况结合*/
-.F_rows,.F_main{width:950px;clear:both;}
-.F_main{overflow:hidden;}

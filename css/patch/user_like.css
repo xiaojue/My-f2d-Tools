@@ -1,9 +1,0 @@
-@charset "utf-8";
-.P_mylike .m_user_album,.P_hislike .m_user_album{margin:20px 0 0 0;}
-.P_mylike .m_subnav,.P_hislike .m_subnav{margin:20px 0 0 0;}
-.P_mylike .m_user_photolist,.P_mylike .m_user_albumlist,.P_hislike .m_user_photolist,.P_hislike .m_user_albumlist{margin:20px 0 0 0;}
-.P_mylike .m_user_photolist li,.P_hislike .m_user_photolist li{margin:0 49px 16px 0;}
-.P_mylike .m_user_albumlist li,.P_hislike .m_user_albumlist li{margin:0 43px 16px 0;}
-.P_mylike .m_pages,.P_hislike .m_pages{padding:13px 10px 40px 0;}
-.P_mylike .M_icon22{display:none;}
-.P_mylike .m_yllw_clew,.P_hislike .m_yllw_clew{margin:20px 0 0 0;}

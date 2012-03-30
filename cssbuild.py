@@ -75,12 +75,8 @@ def compressCss(src,target):
     print src+' not exists'
 
 if options=='--build':
-  src = os.path.normpath(src)
-  target = os.path.normpath(target)
   buildCss(src,target)
 if options=='--compress':
-  src = os.path.normpath(src)
-  target = os.path.normpath(target)
   compressCss(src,target)
   
 

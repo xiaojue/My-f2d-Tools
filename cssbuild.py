@@ -32,7 +32,7 @@ def getcssimports(conf):
   confdir = os.path.dirname(conf)+'/'
   f = open(conf,'r+')
   strs = f.read()
-  temp = re.findall('\@import url\(\"(.*?)\"\)',strs,re.S)
+  temp = re.findall('\@import url\([\"|\'](.*?)[\"|\']\)',strs,re.S)
   for i in temp:
     modules.append(confdir+i)
   #print modules 
